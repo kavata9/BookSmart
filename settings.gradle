@@ -1,0 +1,2 @@
+rootProject.name='BookSmart_app'
+include ':app'
